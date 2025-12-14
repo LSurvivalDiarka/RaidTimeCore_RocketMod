@@ -24,7 +24,7 @@ The system uses a cyclic schedule (e.g., 4 hours of Peace -> 45 minutes of Raid)
 | Command | Permission | Description |
 | :--- | :--- | :--- |
 | `/raid` | `raid.check` | Shows the current status (Peace/Raid) and the time remaining for the next phase. |
-| **(Passive)** | `raid.bypass` | Allows Admins/Staff to destroy structures even during Peace time. |
+| **(Passive)** | `raidtimecore.bypass` | Allows Admins/Staff to destroy structures even during Peace time. |
 
 *Aliases for `/raid`: `/time`, `/schedule`, `/tiempo`*
 
